@@ -39,7 +39,7 @@ public class Main {
 - Years: 2021-2025 
 - Degree: Bachelor
 
-** Key disciplines: **
+**Key disciplines:** 
 - Algorithms and Data Structures
 - Software Design
 - Databases
