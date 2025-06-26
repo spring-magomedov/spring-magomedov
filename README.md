@@ -27,7 +27,7 @@ public class Main {
 ### Core Technologies
 | Category       | Technologies                                                                                   |
 |-----------------|-----------------------------------------------------------------------------------------------|
-| **Languages**       | `Java 21`, `SQL`                                                                          |
+| **Languages**       | `Java 17+`, `SQL`                                                                          |
 | **Frameworks**  | `Spring Boot`, `Spring MVC`, `Spring Data`, `Spring Cloud`, `Spring Sequrity`, `Hibernate`    |
 | **Testing**| `JUnit 5`, `Mockito`, `Testcontainers`                                                             |
 | **Databases** | `PostgreSQL`, `Liquibase`                                                                       |
@@ -36,7 +36,7 @@ public class Main {
 ## 📚 Education
 **🎓 Yaroslavl State Technical University (YSTU)**  
 Specialty: 09.03.04 "Software Engineering" 
-Years: 2011-2025 
+Years: 2021-2025 
 Degree: Bachelor 
 **Key disciplines:**
 - Algorithms and Data Structures
