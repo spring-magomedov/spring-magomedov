@@ -37,8 +37,9 @@ public class Main {
 **🎓 Yaroslavl State Technical University (YSTU)**  
 - Specialty: 09.03.04 "Software Engineering" 
 - Years: 2021-2025 
-- Degree: Bachelor 
-**Key disciplines:**
+- Degree: Bachelor
+
+** Key disciplines: **
 - Algorithms and Data Structures
 - Software Design
 - Databases
