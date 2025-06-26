@@ -35,9 +35,9 @@ public class Main {
 | **Methodologies** | `REST API`, `Microservices`, `Event-Driven Design`                                          |
 ## 📚 Education
 **🎓 Yaroslavl State Technical University (YSTU)**  
-Specialty: 09.03.04 "Software Engineering" 
-Years: 2021-2025 
-Degree: Bachelor 
+- Specialty: 09.03.04 "Software Engineering" 
+- Years: 2021-2025 
+- Degree: Bachelor 
 **Key disciplines:**
 - Algorithms and Data Structures
 - Software Design
